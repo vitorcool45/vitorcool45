@@ -16,32 +16,16 @@ Here are some ideas to get you started:
 ### Hey! My name is Vitor :) 
 
 ---
-<a href="https://i.ibb.co/TP3qKcp/Thalita-Mayra-3-1.png"><img src="https://i.ibb.co/TP3qKcp/Thalita-Mayra-3-1.png" alt="Thalita-Mayra-3-1" border="0"></a>
- 
----
+
+Development student in 🔋🚀
 
 📍 De São Paulo
-
 
 ---
 
 Participando do Bootcamp da [Generation Brasil](https://brazil.generation.org/).
 
 ---
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12143241866)
-
-Onde me encontrar? :mag:  
-
-<a href="https://www.instagram.com/vitu.sr"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/thalitsms)  
-
-<a href="https://www.linkedin.com/in/vitorsantana03"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/vitorsantana03)  
-
-
-
----  
 
 <center>
 <table>
