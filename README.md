@@ -23,7 +23,7 @@ Development student in 🔋🚀
 
 ---
 
-Participando do Bootcamp da [Generation Brasil](https://brazil.generation.org/).
+Participando do Bootcamp da [Generation Brasil](https://brazil.generation.org/) • Turma 32 •
 
 ---
 
