@@ -54,4 +54,4 @@ Onde me encontrar? :mag:
 
 ---
 
-![](https://komarev.com/ghpvc/?username=thalitsms&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=vitorcool45&color=blue&style=flat)
